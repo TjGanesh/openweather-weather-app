@@ -1,0 +1,7 @@
+1. The openweather api endpoint to return daily weather returns some issues, so used the forecast api and got 5 updates with 3hrs delay and displyed those.
+
+2. As the data for different days are not available, I didn't show the best day to sell an umbrella/ jacket.
+
+3. Login is not advisable to have for a weather app, so skiped that.
+
+4. As there are no designs provided, I kept the designs simple and stright-forwarded.
